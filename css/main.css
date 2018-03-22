@@ -1,0 +1,35 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.contact {
+  background-color: #fff;
+  color: #000;
+}
+
+.btn {
+  background-color: #000;
+  color: #f2f2f2;
+  padding: .5rem 1rem;
+}
+
+@media only screen and (min-width: 60em) {
+
+.name {
+  padding-right: .5rem;
+}
+
+.age {
+  padding-left: .5rem;
+}
+
+.email {
+  padding-right: .5rem;
+}
+
+.fitness {
+  padding-left: .5rem;
+}
+
+
+}
