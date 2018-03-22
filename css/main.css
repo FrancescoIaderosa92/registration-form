@@ -1,5 +1,9 @@
 html {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  text-decoration: underline;
 }
 
 .contact {
@@ -15,21 +19,20 @@ html {
 
 @media only screen and (min-width: 60em) {
 
-.name {
-  padding-right: .5rem;
-}
+  .name {
+    padding-right: .5rem;
+  }
 
-.age {
-  padding-left: .5rem;
-}
+  .age {
+    padding-left: .5rem;
+  }
 
-.email {
-  padding-right: .5rem;
-}
+  .email {
+    padding-right: .5rem;
+  }
 
-.fitness {
-  padding-left: .5rem;
-}
-
+  .fitness {
+    padding-left: .5rem;
+  }
 
 }
